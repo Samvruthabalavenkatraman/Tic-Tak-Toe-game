@@ -13,3 +13,9 @@ Game Rules
 
 . The player that succeeds in placing three respective marks (X or O) in a horizontal, vertical, or diagonal row wins the game.
 
+
+
+
+
+
+
