@@ -2,6 +2,7 @@
 
 
 Game Rules 
+
 . Traditionally the first player plays with "X". So you can decide who wants to go with "X" and who wants to go with "O".
 
 . Only one player can play at a time.
